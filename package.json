@@ -1,0 +1,25 @@
+{
+  "name": "chrome-extention-unsplash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riy0/chrome-extention-unsplash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riy0/chrome-extention-unsplash/issues"
+  },
+  "homepage": "https://github.com/riy0/chrome-extention-unsplash#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0",
+    "unsplash-js": "^6.0.0"
+  }
+}
